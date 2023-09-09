@@ -1,6 +1,6 @@
 Prerequisites:
 
-Clone my repo 
+Clone this repo 
 
 Open the application.properties file located in src/main/resources directory and update the following properties with your PostgreSQL database details:
 spring.datasource.url=jdbc:postgresql://localhost:5432/<database-name>
